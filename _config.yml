@@ -1,0 +1,28 @@
+name: Josiah Alter Photo Co.
+favicon: null
+layout_spectrum: 0.1494088782928884
+typography_spectrum: 0.21864554402418435
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3086455403827131
+  lightness: 0.8310370820108801
+  saturation: 0.3907110064756125
+  rhythmicContrast: 0.5164642254821956
+purpose: []
